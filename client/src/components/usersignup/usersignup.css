@@ -1,0 +1,51 @@
+.bg-color{
+    background-color: #F07E2B;
+    height: auto;
+    min-height: 100%;
+    width: 100%;
+    /* position: fixed;  */
+     /* top: 0;
+    left: 0; */
+}
+.col-one{
+    background-color: #fff;
+    border-radius: 25px;
+}
+.inputborder{
+    border: none;
+    border-top: 3px solid #F07E2B;
+    padding: 0.25rem;
+    outline: none;
+    box-shadow: 0px 8px 5px #00000049;
+    
+}
+.googleLogo{
+    width: 2rem;
+    height: 2rem;
+    padding: .3rem;
+    margin-left: 5px;
+}
+.row{
+    --bs-gutter-x:0;
+}
+.submit{
+    box-shadow: 0px 8px 5px #4d4c4b49; 
+}
+.or{
+    color:#F07E2B ;
+    font-family: League Gothic;
+    font-weight: 600;
+}
+.google:hover{
+    cursor: pointer; 
+}
+.error{
+    font-family:Inter;
+  font-size: 1.5rem;
+  font-weight: 560;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+ 
+}

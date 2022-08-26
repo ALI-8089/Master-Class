@@ -1,0 +1,10 @@
+.navbar-brand {
+  font-family: League Gothic;
+}
+.nav-link{
+    color: #F07E2B !important;
+    font-family: inter;
+}
+.nav-item{
+    margin-right: 3rem;
+}
